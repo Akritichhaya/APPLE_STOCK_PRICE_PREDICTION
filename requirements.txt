@@ -1,0 +1,10 @@
+numpy==1.26.4
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+pmdarima==2.0.4
+cython==3.0.10
+joblib
+statsmodels
