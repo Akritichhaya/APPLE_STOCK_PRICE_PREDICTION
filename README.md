@@ -1,7 +1,7 @@
 # Apple Stock Price Prediction with SARIMA Model
 
 **Author:** Akritichhaya  
-**Project Link (Deployed App):** [Apple Stock Prediction App](YOUR_STREAMLIT_APP_LINK_HERE)
+**Project Link (Deployed App):** [Apple Stock Prediction App](https://applestockpriceprediction-hkm5pzapkx5ss7nte92har.streamlit.app/)
 
 ---
 
